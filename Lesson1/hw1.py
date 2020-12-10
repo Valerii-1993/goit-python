@@ -1,0 +1,5 @@
+name = input("Please, enter your name: ")
+print (f'Hi, {name}! Wellcome to python')
+age = input("Please, tell me, how old you: ")
+print (f'wow, it`s amazing, you`re not looking for {age}')
+print ('So...have a nice day!)')
