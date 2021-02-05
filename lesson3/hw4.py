@@ -1,6 +1,6 @@
 import os
 import sys
-path = 'E:\Учёба\Всякое'
+path = 'E:\Learning\Всякое'
 files = os.listdir(path)
 изображения = []
 видео_файлы = []
